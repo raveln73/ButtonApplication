@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonApplication</string>
+    <string name="button1">Push</string>
+    <string name="com">Produced by R</string>
+    <string name="result">Touch Count : </string>
+
+
+</resources>
